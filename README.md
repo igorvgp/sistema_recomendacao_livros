@@ -3,7 +3,7 @@
 
 <p>neste projeto executei a ingestão, análise e modelagem dos dados utilizando Pytom com as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
   
-Após a preparação dos dados, foi construído um modelo de Machine Learning com o algoritmo de Machine Learning K-nearest neighbors através do scikit-learn.<br />
+Após a preparação dos dados, foi construído um modelo de Machine Learning com o algoritmo K-nearest neighbors através do scikit-learn.<br />
   
 O algoritmo faz 5 recomendações de acordo com a compra do usuário.<br />
   
