@@ -1,7 +1,7 @@
 # Sistema de recomendação de livros
 <h3>Desenvolvimento de um sistema de recomendação de livros utilizando o algoritmo de Machine learning K-nearest neighbors.</h3>
 
-<p>neste projeto executei a ingestão, análise e modelagem dos dados utilizando Pytom com as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
+<p>neste projeto executei a ingestão, análise e modelagem dos dados utilizando Pyton com as bibliotecas Pandas, Numpy, Matplotlib e Seaborn.
   
 Após a preparação dos dados, foi construído um modelo de Machine Learning com o algoritmo K-nearest neighbors através do scikit-learn.<br />
   
